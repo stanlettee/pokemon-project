@@ -1,1 +1,1 @@
-export const selectPokemon = state => state.pokemons
+export const selectPokemon = state => state.pokemons.pokemons
