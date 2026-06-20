@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "email": "stas@gmail.com",
+      "password": "$2a$10$1uGrmGAj5H/SfzM7aDJb..NP7vXlkQVc4t1N7aQALxnBpCH/ti.v2",
+      "id": 1
+    }
+  ],
+  "pokemons": []
+}

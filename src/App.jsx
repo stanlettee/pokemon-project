@@ -5,6 +5,7 @@ import { Filter } from './components/Filter'
 import { useDispatch } from 'react-redux'
 import './App.css'
 import { fetchPokemons } from './redux/pokemon/pokemonsOperation'
+import { RegisterForm } from './components/RegisterForm'
 
 function App() {
     const dispatch = useDispatch()
@@ -17,6 +18,7 @@ function App() {
             <AddForm></AddForm>
             <List></List>
             <Filter></Filter>
+            <RegisterForm></RegisterForm>
         </>
     )
 }
